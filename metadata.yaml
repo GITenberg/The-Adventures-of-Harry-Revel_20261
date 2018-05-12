@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20261#The-Adventures-of-Harry-Revel
 gutenberg_issued: '2007-01-03'
 gutenberg_type: Text
 identifiers:
